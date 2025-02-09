@@ -9,7 +9,7 @@ Building Ideas into Digital Reality.
 
 We create dynamic, user-friendly, and responsive websites that meet modern digital standards. We specialize in crafting websites that enhance user engagement, improve functionality, and ensure a seamless browsing experience across devices.
 
-![Web Development](images/Web%20Development.jpg)
+
 
 
 # Objectives

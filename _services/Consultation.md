@@ -9,7 +9,7 @@ Guiding Your Vision to Success.
 
 We offer comprehensive consultations to understand your unique needs and objectives. Our team collaborates with you to assess your current digital presence, identify opportunities for improvement, and outline a tailored web development strategy. Through clear communication and expert advice, we ensure your project aligns with industry best practices and delivers optimal results.
 
-![Accounting Services]("images/sturctures images/Consultation.jpg")
+
 
 # Objectives
 

@@ -9,7 +9,7 @@ Simplifying Complexity, Delivering Scalability
 
 We help businesses optimize their systems and adopt scalable, secure cloud-based solutions. We provide guidance on improving IT efficiency, integrating cloud technologies, and optimizing resources for maximum business impact.
 
-![IT Infrastructure]( images/IT Infrastructure & Cloud Solutions.jpg)
+
 
 # Objectives
 

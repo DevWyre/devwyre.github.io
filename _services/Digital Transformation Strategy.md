@@ -9,7 +9,7 @@ Driving Growth Through Innovation
 
 Our digital transformation strategy consultation helps businesses leverage modern technology to improve efficiency, enhance customer experiences, and stay competitive. We focus on automation, cloud integration, and AI-driven solutions to modernize your operations and support sustainable growth.
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+
 
 # Objectives
 
