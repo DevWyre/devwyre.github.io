@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Free Consultation",
+    "description": "New clients receive an obligation free consultation.",
+    "image": {
+      "url": "images/features/noun_branding_1885335.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Dedicated Support",
+    "description": "Regular maintenance and updates to ensure your website stays fresh and functional",
+    "image": {
+      "url": "images/features/noun_The Process_1885341.svg",
+      "width": 80,
+      "height": 80
+    }
+  }
+]
