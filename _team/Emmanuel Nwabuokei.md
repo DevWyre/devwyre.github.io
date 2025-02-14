@@ -8,4 +8,4 @@ promoted: true
 weight: 1
 ---
 
-A Bachelor’s Degree in Estate Management from Baze University, Abuja, Nigeria, and over two years of software development experience, I’ve built a uniquemix of skills. I’m experienced in real estate operations,
+3+ years of experience in physiotherapy and occupational therapy, with a strong background in finance and accounting. Skilled in patient care optimization, financial planning, and healthcare operations. Proficient in budgeting, financial reporting, and therapeutic program development. Combines healthcare expertise with financial insights to deliver innovative and efficient solutions.

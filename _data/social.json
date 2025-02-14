@@ -1,12 +1,12 @@
 [
   {
     "name": "Github",
-    "link": "https://github.com/zerostaticthemes/jekyll-serif-theme",
+    "link": "https://github.com/devwyre",
     "image": "images/social/github.svg"
   },
   {
     "name": "Twitter",
-    "link": "https://twitter.com/zerostaticio",
+    "link": "https://twitter.com/",
     "image": "images/social/twitter.svg"
   },
   {
@@ -16,12 +16,12 @@
   },
   {
       "name": "Email",
-      "link": "mailto:ekyllserif@example.com ",
+      "link": "contact@devwyre.com",
       "image": "images/social/email.svg"
   },
   {
       "name": "Instagram",
-      "link": "https://instagram.com",
+      "link": "https://www.instagram.com/devwyre?igsh=NTc4MTIwNjQ2YQ==",
       "image": "images/social/instagram.svg"
   },
   {
