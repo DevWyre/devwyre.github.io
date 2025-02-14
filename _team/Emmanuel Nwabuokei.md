@@ -1,7 +1,7 @@
 ---
 title: " Emmanuel Nwabuokei"
 date: 2018-11-19T10:47:58+10:00
-image: "images/team/peter-van-eijk-711986-unsplash.jpg"
+image: "images/team/Emmanuel Nwabuokei.jpg"
 jobtitle: "Founder / financial Director"
 linkedinurl: "https://www.linkedin.com/in/emmanuel-nwabuokei-906b3924a/"
 promoted: true
