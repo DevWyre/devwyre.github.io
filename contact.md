@@ -14,4 +14,4 @@ We’re here to support you whenever you need us! Our team is available during t
 | Thursday  | 9:00am - 5:00pm |
 | Friday    | 9:00am - 5:00pm |
 | Saturday  | 10:am  - 2:00pm |
-| Sunday    | Closed          |
+| Sunday    | Closed.          |
