@@ -1,7 +1,7 @@
 ---
 title: "Frank Francis Okokuro "
 date: 2018-11-19T10:47:58+10:00
-image: "images/team/sung-wang-g4DgCF90EM4-unsplash.jpg"
+image: "images/team/Frank Francis Okokuro.jpg"
 jobtitle: "Marketer"
 linkedinurl: ""
 weight: 5

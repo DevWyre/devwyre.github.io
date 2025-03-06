@@ -8,6 +8,7 @@ We’re here to support you whenever you need us! Our team is available during t
 
 | Day       | Opening Hours   |
 | --------- | --------------- |
+| Monday    | 9:00am - 5:00pm |
 | Tuesday   | 9:00am - 5:00pm |
 | Wednesday | 9:00am - 5:00pm |
 | Thursday  | 9:00am - 5:00pm |
