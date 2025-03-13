@@ -240,3 +240,20 @@ body {
   color: var(--team-text-color); /* Team large summary text color */
   border-color: var(--team-border-color); /* Team large summary border color */
 }
+
+.logo-showcase {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.logo-square {
+  width: 150px; /* Adjust the width as needed */
+  height: 150px; /* Adjust the height as needed */
+  object-fit: contain; /* Ensure the logo fits within the box */
+  border: 2px solid #ccc;
+  padding: 10px; /* Add padding to ensure the logo is not too close to the border */
+  background-color: #fff; /* Add a background color to make the logo stand out */
+}
